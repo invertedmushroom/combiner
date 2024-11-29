@@ -4,6 +4,9 @@
 - This application combines multiple files into single file.
 - AI generated code.
 
+
+https://github.com/user-attachments/assets/4261395d-2163-47fb-a9d8-38751ae2f73f
+
 ## Features
 - Supports persistent project management.
 - Drag-and-drop file selection
